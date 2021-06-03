@@ -1,0 +1,15 @@
+﻿  Functions.cpp
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(302,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(311,39): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(317,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(352,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(374,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(383,39): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(393,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(418,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(442,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(473,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(495,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(223): warning C4715: check_dt_for_launch: значение возвращается не при всех путях выполнения
+C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\TaskScheduler\Functions.cpp(263): warning C4715: ReadTXT: значение возвращается не при всех путях выполнения
+  TaskScheduler.vcxproj -> C:\Users\abaev\OneDrive\Desktop\TaskScheduler2\Debug\TaskScheduler.exe
